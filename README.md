@@ -1,8 +1,7 @@
 # Irfan-About Me
 Hi👋,I Am Irfan
 Here Is The Description
-[![HitCount](http://hits.dwyl.com/irfanadil0004/irfan-me.svg)](http://hits.dwyl.com/irfanadil0004/irfan-me)
-- 👆👆-GitHub Hits
+[![HitCount](http://hits.dwyl.com/irfanadil0004/irfan-me.svg)](http://hits.dwyl.com/irfanadil0004/irfan-me) -GitHub Hits
 
 - 🎓 BTech -Computer Science Engneering -1st Year
 - 🔭 I’m currently working on NIETiansHub
