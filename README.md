@@ -9,7 +9,7 @@ Here Is The Description
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 - 👯 I’m looking For Someone Like Me To Build Somwthing For Society 
 - 💼 Buissness Lover Ask Me Anything About  How Things Work, You'll Love it!
-- 👽 Cosmos Lover Ask Me About Aliens & TIme Travals, You Wont Regret!
+- 👽 Cosmos Lover Ask Me About Aliens & TIme Travals, You Won't Regret!
 
 # Previous Works
 - 💻 Devloped Mygorakhpur.co.in For My City To Be Connected in School days. 
