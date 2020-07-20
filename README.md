@@ -12,7 +12,7 @@ Here Is The Description
 - 👽 Cosmos Lover Ask Me About Aliens & TIme Travals, You Wont Regret!
 
 # Previous Works
-- 💻 Devloped Mygorakhpur.co.in For My City To Be Connected.
+- 💻 Devloped Mygorakhpur.co.in For My City To Be Connected in School days. 
 - 📱 Insipired By WhatsApp,Published Do Chat On Play Store So We Can Be Connected Securly By Indian App.
 - 🕹 Inspired By Games Made A Game Advanture Land In 10th So I Can Play With My Own Cheat Codes.
 - 🤝 Devloped Websites And Apps For Startups So They Can Grow Their Buissniess In Afordable Price.
