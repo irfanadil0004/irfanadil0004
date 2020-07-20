@@ -8,12 +8,12 @@ Here Is The Description
 - 🌱 I’m currently learning Flutter & Python Oops!
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 - 👯 I’m looking For Someone Like Me To Build Somwthing For Society 
-- 💼 Buissness Lover Ask Me About How Things Work!
-- 👽 Cosmos Lover Ask Me About Aliens & TIme Travals You Wont Regret!
+- 💼 Buissness Lover Ask Me Anything About  How Things Work, You'll Love it!
+- 👽 Cosmos Lover Ask Me About Aliens & TIme Travals, You Wont Regret!
 
 # Previous Works
 - 💻 Devloped Mygorakhpur.co.in For My City To Be Connected.
-- 📱 Insipired By WhatsApp Do Chat On Play Store So We Can Be Connected Securly By Indian App.
+- 📱 Insipired By WhatsApp,Published Do Chat On Play Store So We Can Be Connected Securly By Indian App.
 - 🕹 Inspired By Games Made A Game Advanture Land In 10th So I Can Play With My Own Cheat Codes.
 - 🤝 Devloped Websites And Apps For Startups So They Can Grow Their Buissniess In Afordable Price.
 - 💵 While E-Commerce On Rise,We Made T-shirt Selling Website For Quality Products In Cheap Price [MmD](https://MadMonkeydeals.com)
