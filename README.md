@@ -1,4 +1,4 @@
-# Irfan-About Me
+# <i> Hello Developers, I Am Irfan Aadil </i></u>
 Hi👋,I Am Irfan Aadil
 Here Is The Description
 [![HitCount](http://hits.dwyl.com/irfanadil0004/irfan-me.svg)](http://hits.dwyl.com/irfanadil0004/irfan-me) -GitHub Hits
@@ -11,7 +11,7 @@ Here Is The Description
 - 💼 Buissness Lover Ask Me Anything About  How Things Work, You'll Love it!
 - 👽 Cosmos Lover Ask Me About Aliens & TIme Travals, You Won't Regret!
 
-# Previous Works
+# <i><u> Previous Works </i></u>
 - 💻 Devloped Mygorakhpur.co.in For My City To Be Connected in School days. 
 - 📱 Insipired By WhatsApp,Published Do Chat On Play Store So We Can Be Connected Securly By Indian App.
 - 🕹 Inspired By Games Made A Game Advanture Land In 10th So I Can Play With My Own Cheat Codes.
@@ -21,18 +21,18 @@ Here Is The Description
 - 🎓 For Indeed Unity & For Connecting College Students On One Place Made [NIETiansHub](www.nietianshub.com)
 
 
-# What I Love
+# <i><u>What I Love </i></u>
 Loves ❣️❣️-
 - 🎧 Spotify -Life Saver While Working
 - 🤝 Quora-Parner Of Times When I Need Guidence
 - 📚 Scribd-Answers Of Every Question 
 
-# Follow Me
+# <i><u>Follow Me </i></u>
 - Follow Me On-
 - [linkedin](https://www.linkedin.com/in/irfan-aadil-402324161)
 - [Facebook](https://www.facebook.com/IRFANADIL123/)
 - [Twitter](https://twitter.com/irfanadil15)
 - [Instagram](https://www.instagram.com/irfanadil004/)
 
-- Thanks For Visiting 👋 
+# <i><u>Thanks For Visiting </i></u> 👋 
 
