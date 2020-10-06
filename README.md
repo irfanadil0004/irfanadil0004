@@ -4,7 +4,7 @@ Here Is The Description
 [![HitCount](http://hits.dwyl.com/irfanadil0004/irfan-me.svg)](http://hits.dwyl.com/irfanadil0004/irfan-me) -GitHub Hits
 
 - 🎓 BTech -Computer Science Engneering -2nd Year
-- 🔭 I’m currently working on <b>[NIETiansHub -Connecting Young Minds](https://www.nietianshub.com)</b>
+- 🔭 I’m currently working on <b>[NIETiansHub -Connecting Youngsters](https://www.nietianshub.com)</b>
 - 🌱 I’m currently learning Flutter & Python Oops!
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 - 👯 I’m looking For Someone Like Me To Build Something For Society 
