@@ -4,7 +4,7 @@ Here Is The Description
 [![HitCount](http://hits.dwyl.com/irfanadil0004/irfan-me.svg)](http://hits.dwyl.com/irfanadil0004/irfan-me) -GitHub Hits
 
 - 🎓 BTech -Computer Science Engneering -2nd Year
-- 🔭 I’m currently working on <b><i>[Nietianshub](https://www.nietianshub.com)</b></i>
+- 🔭 I’m currently working on <b>[Nietianshub](https://www.nietianshub.com)</b>
 - 🌱 I’m currently learning Flutter & Python Oops!
 - 💬 Ask me about Apps,Websites,Python or any tech related stuff.
 - 👯 I’m looking For Someone Like Me To Build Something For Society 
@@ -12,13 +12,13 @@ Here Is The Description
 - 👽 Cosmos Lover, Ask Me About Aliens & TIme Travals, You Won't Regret!
 
 # <i><u> Previous Works </i></u>
-- 💻 Devloped <b><i>[Mygorakhpur.co.in](www.Mygorakhpur.co.in)</b></i> For My City To Be Connected in School days. 
+- 💻 Devloped <b>Mygorakhpur.co.in</b> For My City To Be Connected in School days. 
 - 📱 Insipired By WhatsApp,Published Do Chat On Play Store So We Can Be Connected Securly By Indian App.
 - 🕹 Inspired By Games Made A Game Advanture Land. So I Can Play With My Own Cheat Codes.
 - 🤝 Devloped Websites And Apps For Startups So They Can Grow Their Buissniess In Afordable Price.
-- 💵 While E-Commerce On Rise,We Made T-shirts Print On Demand Website For Quality Products In Cheap Price <b><i>[MmD-We Deliver Emotions](https://MadMonkeydeals.com)</b></i>
-- 📰 In The Era Of Bised News,Made An Unbised News App- <b><i>[Nishpaksh-Today](https://play.google.com/store/apps/details?id=com.nishpakshtodayofficial&hl=en_IN)</b></i> Today For Quality Journalism
-- 🎓 For Indeed Unity & For Connecting College Students On One Place Made <b><i>[NIETiansHub](www.nietianshub.com)</b></i>
+- 💵 While E-Commerce On Rise,We Made T-shirts Print On Demand Website For Quality Products In Cheap Price <b>[MmD-We Deliver Emotions](https://MadMonkeydeals.com)</b>
+- 📰 In The Era Of Bised News,Made An Unbised News App- <b>[Nishpaksh-Today](https://play.google.com/store/apps/details?id=com.nishpakshtodayofficial&hl=en_IN)</b> Today For Quality Journalism
+- 🎓 For Indeed Unity & For Connecting College Students On One Place Made <b>[NIETiansHub](www.nietianshub.com)</b>
 
 
 # <i><u>What I Love </i></u>
